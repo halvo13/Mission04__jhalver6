@@ -1,0 +1,18 @@
+﻿body {
+    padding: 20px;
+}
+img {
+    width: 200px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+.row:after {
+    display: flex;
+}
+
+
